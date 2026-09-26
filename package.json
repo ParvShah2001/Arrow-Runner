@@ -1,0 +1,23 @@
+{
+  "name": "com.main.arrowrunner",
+  "version": "1.0.0",
+  "description": "Arrow Runner - Neon Arcade Mobile Game",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx -y http-server -p 8080",
+    "build": "node -e \"const fs = require('fs'); if (!fs.existsSync('www')) fs.mkdirSync('www'); fs.copyFileSync('index.html', 'www/index.html'); fs.copyFileSync('manifest.json', 'www/manifest.json');\""
+  },
+  "keywords": [
+    "game",
+    "arcade",
+    "mobile",
+    "html5"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}

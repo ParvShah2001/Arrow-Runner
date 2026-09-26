@@ -1,0 +1,6 @@
+{
+  "appId": "com.main.arrowrunner",
+  "appName": "Arrow Runner",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}

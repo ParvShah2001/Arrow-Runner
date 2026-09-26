@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Arrow Runner</string>
+    <string name="title_activity_main">Arrow Runner</string>
+    <string name="package_name">com.main.arrowrunner</string>
+    <string name="custom_url_scheme">com.main.arrowrunner</string>
+</resources>
