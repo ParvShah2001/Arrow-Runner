@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c215e2b6-e032-4452-b085-6812d3428c06" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Android game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/aar_main_jar/debug/syncDebugLibJars/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/aar_main_jar/debug/syncDebugLibJars/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/compile_library_classes_jar/debug/bundleLibCompileToJarDebug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/compiled_local_resources/debug/compileDebugLibraryResources/out/layout_capacitor_bridge_layout_main.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/compiled_local_resources/debug/compileDebugLibraryResources/out/layout_capacitor_bridge_layout_main.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/compiled_local_resources/debug/compileDebugLibraryResources/out/layout_no_webview.xml.flat" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/compiled_local_resources/debug/compileDebugLibraryResources/out/layout_no_webview.xml.flat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/debug/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/debug/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/debug/packageDebugResources/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/mergeDebugAssets/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/mergeDebugShaders/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/Bridge.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/Bridge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/BridgeWebChromeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/BridgeWebChromeClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/MessageHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/MessageHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/WebViewLocalServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/WebViewLocalServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/cordova/MockCordovaWebViewImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/cordova/MockCordovaWebViewImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/plugin/CapacitorCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/plugin/CapacitorCookies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/plugin/CapacitorHttp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/plugin/CapacitorHttp$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/plugin/SystemBars.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/javac/debug/compileDebugJavaWithJavac/classes/com/getcapacitor/plugin/SystemBars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/Bridge.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/Bridge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/BridgeWebChromeClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/BridgeWebChromeClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/MessageHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/MessageHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/WebViewLocalServer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/WebViewLocalServer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/cordova/MockCordovaWebViewImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/cordova/MockCordovaWebViewImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/plugin/CapacitorCookies.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/plugin/CapacitorCookies.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/plugin/CapacitorHttp$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/plugin/CapacitorHttp$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/plugin/SystemBars.class" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_dir/debug/bundleLibRuntimeToDirDebug/com/getcapacitor/plugin/SystemBars.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/intermediates/runtime_library_classes_jar/debug/bundleLibRuntimeToJarDebug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/outputs/aar/capacitor-android-debug.aar" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/outputs/aar/capacitor-android-debug.aar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/outputs/logs/manifest-merger-debug-report.txt" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/outputs/logs/manifest-merger-debug-report.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/@capacitor/android/capacitor/build/tmp/compileDebugJavaWithJavac/previous-compilation-data.bin" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ParvShah2001&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ParvShah2001/Arrow-Runner.git&quot;,
+    &quot;accountId&quot;: &quot;b558dced-23aa-453e-8132-08b2a6b10bee&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3K611hDoa9L3rubFFvj4MYeIKql" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c215e2b6-e032-4452-b085-6812d3428c06" name="Changes" comment="" />
+      <created>1790862990987</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790862990987</updated>
+    </task>
+    <servers />
+  </component>
+</project>
