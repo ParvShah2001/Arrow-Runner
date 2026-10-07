@@ -1,7 +1,7 @@
 {
-  "name": "com.main.arrowrunner",
+  "name": "arrow-runner",
   "version": "1.0.0",
-  "description": "Arrow Runner - Neon Arcade Mobile Game",
+  "description": "Arrow Runner - High-speed 60 FPS HTML5 Canvas arcade game packaged for Android via Capacitor 7",
   "main": "index.html",
   "scripts": {
     "start": "npx -y http-server -p 8080",
@@ -11,10 +11,13 @@
     "game",
     "arcade",
     "mobile",
-    "html5"
+    "html5",
+    "canvas",
+    "capacitor",
+    "android"
   ],
-  "author": "",
-  "license": "ISC",
+  "author": "Parv Shah",
+  "license": "MIT",
   "dependencies": {
     "@capacitor/android": "^7.0.0",
     "@capacitor/cli": "^7.0.0",
