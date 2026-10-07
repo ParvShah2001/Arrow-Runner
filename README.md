@@ -60,7 +60,7 @@ Arrow-Runner/
 │   └── GAMEPLAY.md             # Controls, entity reference & skin catalog
 ├── android/                    # Capacitor 7 Android native project
 │   ├── app/                    # Android application module & manifest
-│   ├── build.gradle            # Native Gradle build scripts (AGP 8.9.1)
+│   ├── build.gradle            # Native Gradle build scripts (AGP 8.10.0)
 │   └── variables.gradle        # Android SDK & dependency version definitions
 ├── publishing_assets/          # Play Store & publishing graphics / APK outputs
 ├── www/                        # Built web assets distribution directory
