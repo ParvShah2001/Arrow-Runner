@@ -22,6 +22,9 @@ allprojects {
         google()
         mavenCentral()
     }
+    ext {
+        minSdkVersion = rootProject.ext.minSdkVersion
+    }
 }
 
 task clean(type: Delete) {
